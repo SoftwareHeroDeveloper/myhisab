@@ -9,6 +9,6 @@
   "backup_ads": "true",
   "full_ads": "true",
   "view_ads": "true",
-  "banner_ads": "false",
-  "native_ads": "false"
+  "banner_ads": "true",
+  "native_ads": "true"
 }
