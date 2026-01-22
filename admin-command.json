@@ -10,5 +10,5 @@
   "full_ads": "true",
   "view_ads": "true",
   "banner_ads": "true",
-  "native_ads": "true"
+  "native_ads": "false"
 }
