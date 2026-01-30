@@ -1,7 +1,7 @@
 {
   "latest_version": "23",
   "latest_version_size": "7 MB",
-  "notice": "true",
+  "notice": "false",
   "notice_img": "https://myhisab.pages.dev/image/myhisab-notice-26-jan-2026.jpg",
   "notice_cancelable": "true",
   "notice_clickable": "true",
@@ -12,7 +12,7 @@
   "view_ads": "true",
   "banner_ads": "true",
   "native_ads": "false",
-  "free_notice": "false",
+  "free_notice": "true",
   "free_notice_img": "https://myhisab.pages.dev/image/myhisab-notice-26-jan-2026.jpg",
   "free_notice_cancelable": "true",
   "free_notice_clickable": "true",
