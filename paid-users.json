@@ -2,8 +2,8 @@
   
   {
     "email" : "developer.softwarehero@gmail.com",
-    "active" : "",
-    "expire" : ""
+    "active" : "01-Jan-2026",
+    "expire" : "01-Dec-2050"
   },
   {
     "email" : "himelcomputer.nabiganj@gmail.com",
@@ -19,11 +19,6 @@
     "email" : "mrrahatchowdhurybd@gmail.com",
     "active" : "22-Jan-2026",
     "expire" : "22-Feb-2026"
-  },
-  {
-    "email" : "purepowercompany@gmail.com",
-    "active" : "25-Jan-2026",
-    "expire" : "25-Feb-2026"
   },
   {
     "email" : "PurePowercompany@gmail.com",
@@ -61,9 +56,9 @@
     "expire" : "01-Aug-2026"
   },
   {
-    "email" : "osecox@gmail.com",
-    "active" : "01-Feb-2026",
-    "expire" : "10 minutes"
+    "email" : "sh687577@gmail.com",
+    "active" : "02-Feb-2026",
+    "expire" : "2-Mar-2026"
   }
   
 ]
