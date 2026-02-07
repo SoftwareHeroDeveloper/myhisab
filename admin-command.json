@@ -17,7 +17,7 @@
   "VIEWS_START_ADS_COUNT": 3,
   "VIEWS_PER_ADS_COUNT": 6,
   "ADD_START_ADS_COUNT": 1,
-  "ADD_PER_ADS_COUNT": 3,
+  "ADD_PER_ADS_COUNT": 5,
   "free_notice": "false",
   "free_notice_img": "https://myhisab.pages.dev/image/myhisab-notice-06-feb-2026.jpg",
   "free_notice_cancelable": "true",
