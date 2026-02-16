@@ -1,8 +1,8 @@
 {
   "latest_version": "30",
   "latest_version_size": "8 MB",
-  "scrolling_notice": "বিঃদ্রঃ- লোনের জমা এবং সঞ্চয় (ব্যয় হিসাবে গণ্য হবে)",
-  "scrolling_notice_click_link": "https://www.youtube.com/playlist?list=PLQ5kPm8Sh67bbYR4Aqpm9jvtezjkivmsO",
+  "scrolling_notice": "বিঃদ্রঃ- আপনারা কি চান? লোনের জমা এবং সঞ্চয় ব্যয় হিসাবে গণ্য হোক? - আপনাদের মতামত জানাতে এখানে ক্লিক করে MyHisab ফেসবুক গ্রুপে যুক্ত হোন।",
+  "scrolling_notice_click_link": "https://www.facebook.com/groups/1224263309210980",
   "notice": "false",
   "notice_img": "https://myhisab.pages.dev/image/myhisab-notice-26-jan-2026.jpg",
   "notice_cancelable": "true",
