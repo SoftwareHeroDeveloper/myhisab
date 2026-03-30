@@ -8,7 +8,7 @@
   "notice_img": "https://myhisab.pages.dev/image/myhisab-notice-ads-free.jpg",
   "notice_text": "~ ক্যাঠাগরী অনুযায়ী আয়-ব্যয় যুক্ত করার সিস্টেম চালু করা হয়েছে।\n~ UI ডিজাইন ইমপ্রুভড করা হয়েছে।",
   "notice_cancelable": "true",
-  "notice_clickable": "true",
+  "notice_clickable": "false",
   "notice_click_text": "ফেসবুকে মেসেজ করুন",
   "notice_click_link": "fb://page/1045512478635768",
   "backup_ads": "true",
