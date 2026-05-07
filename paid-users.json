@@ -3,12 +3,22 @@
   {
     "email" : "developer.softwarehero@gmail.com",
     "active" : "01-Jan-2026",
-    "expire" : "Unlimited"
+    "expire" : "Lifetime"
   },
   {
     "email" : "himelcomputer.nabiganj@gmail.com",
     "active" : "01-Jan-2026",
-    "expire" : "Unlimited"
+    "expire" : "Lifetime"
+  },
+    {
+    "email" : "service.moumita@gmail.com",
+    "active" : "13-April-2026",
+    "expire" : "Lifetime"
+  },
+    {
+    "email" : "muhiuddin0612@gmail.com",
+    "active" : "02-Feb-2026",
+    "expire" : "02-Feb-2027"
   },
   {
     "email" : "alonehafsa74@gmail.com",
@@ -19,6 +29,21 @@
     "email" : "pervezhossain305@gmail.com",
     "active" : "29-March-2026",
     "expire" : "29-March-2027"
+  },
+    {
+    "email" : "rabbi44147792@gmail.com",
+    "active" : "20-April-2026",
+    "expire" : "20-April-2027"
+  },
+  {
+    "email" : "jafariqbalctg@gmail.com",
+    "active" : "28-April-2026",
+    "expire" : "28-April-2027"
+  },
+  {
+    "email" : "hhmosarof@yahoo.com",
+    "active" : "01-Feb-2026",
+    "expire" : "01-Feb-2027"
   },
   {
     "email" : "islamicmind413@gmail.com",
@@ -41,31 +66,26 @@
     "expire" : "07-June-2026"
   },
   {
-    "email" : "hhmosarof@yahoo.com",
-    "active" : "01-Feb-2026",
-    "expire" : "01-Feb-2027"
-  },
-  {
-    "email" : "hmeleyas119@gmail.com",
-    "active" : "13-April-2026",
-    "expire" : "13-May-2026"
-  },
-  {
     "email" : "ri1306720@gmail.com",
     "active" : "01-Feb-2026",
     "expire" : "01-Aug-2026"
   },
   {
-    "email" : "service.moumita@gmail.com",
-    "active" : "13-April-2026",
-    "expire" : "Lifetime"
+    "email" : "azizullah22edu@gmail.com",
+    "active" : "20-April-2026",
+    "expire" : "20-October-2026"
   },
   {
-    "email" : "muhiuddin0612@gmail.com",
-    "active" : "02-Feb-2026",
-    "expire" : "02-Feb-2027"
+    "email" : "@gmail.com",
+    "active" : "20-April-2026",
+    "expire" : "20-October-2026"
   },
   {
+    "email" : "@gmail.com",
+    "active" : "20-April-2026",
+    "expire" : "20-October-2026"
+  },
+    {
     "email" : "maruf369@gmail.com",
     "active" : "14-April-2026",
     "expire" : "14-May-2026"
@@ -76,29 +96,9 @@
     "expire" : "17-May-2026"
   },
   {
-    "email" : "azizullah22edu@gmail.com",
-    "active" : "20-April-2026",
-    "expire" : "20-October-2026"
-  },
-  {
-    "email" : "rabbi44147792@gmail.com",
-    "active" : "20-April-2026",
-    "expire" : "20-April-2027"
-  },
-  {
-    "email" : "jafariqbalctg@gmail.com",
-    "active" : "28-April-2026",
-    "expire" : "28-April-2027"
-  },
-  {
-    "email" : "@gmail.com",
-    "active" : "20-April-2026",
-    "expire" : "20-October-2026"
-  },
-  {
-    "email" : "@gmail.com",
-    "active" : "20-April-2026",
-    "expire" : "20-October-2026"
+    "email" : "hmeleyas119@gmail.com",
+    "active" : "13-April-2026",
+    "expire" : "13-May-2026"
   }
   
 ]
