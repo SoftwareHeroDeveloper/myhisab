@@ -46,19 +46,14 @@
     "expire" : "01-Feb-2027"
   },
   {
-    "email" : "islamicmind413@gmail.com",
-    "active" : "01-April-2026",
-    "expire" : "31-May-2026"
-  },
-  {
     "email" : "tazulislam5020@gmail.com",
     "active" : "27-Jan-2026",
-    "expire" : "27-Jul-2026"
+    "expire" : "27-July-2026"
   },
   {
     "email" : "ressellopl@gmail.com",
     "active" : "28-Jan-2026",
-    "expire" : "28-Jul-2026"
+    "expire" : "28-July-2026"
   },
   {
     "email" : "tisudeb74@gmail.com",
@@ -96,9 +91,8 @@
     "expire" : "17-May-2026"
   },
   {
-    "email" : "hmeleyas119@gmail.com",
-    "active" : "13-April-2026",
-    "expire" : "13-May-2026"
+    "email" : "islamicmind413@gmail.com",
+    "active" : "01-April-2026",
+    "expire" : "31-May-2026"
   }
-  
 ]
