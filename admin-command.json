@@ -30,5 +30,6 @@
   "free_notice_cancelable": "true",
   "free_notice_clickable": "true",
   "free_notice_click_text": "Join Facebook Group",
-  "free_notice_click_link": "https://www.facebook.com/groups/1224263309210980"
+  "free_notice_click_link": "https://www.facebook.com/groups/1224263309210980",
+  "manual_login": "true"
 }
