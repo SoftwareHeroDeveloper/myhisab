@@ -24,6 +24,8 @@
   "ADD_PER_ADS_COUNT": 30,
   "ADD_INCOME_START_ADS_COUNT": 15,
   "ADD_INCOME_PER_ADS_COUNT": 30,
+  "PDF_START_ADS_COUNT": 2,
+  "PDF_PER_ADS_COUNT": 8,
   "free_notice": "false",
   "free_notice_img": "https://myhisab.pages.dev/image/myhisab-notice-ads-free.jpg",
   "free_notice_text": "~ ক্যাঠাগরী অনুযায়ী আয়-ব্যয় যুক্ত করার সিস্টেম যুক্ত করা হয়েছে।",
