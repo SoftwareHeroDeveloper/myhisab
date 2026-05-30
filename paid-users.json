@@ -10,7 +10,7 @@
     "expire" : "Lifetime"
   },
   {
-    "email" : "himelcomputer..nabiganj@gmail.com",
+    "email" : "himelcomputer.nabiganj@gmail.com",
     "active" : "01-Jan-2026",
     "expire" : "Lifetime"
   },
@@ -50,6 +50,11 @@
     "expire" : "01-Feb-2027"
   },
   {
+    "email" : "boimelanurnagar2005@gmail.com",
+    "active" : "18-May-2026",
+    "expire" : "18-May-2027"
+  },
+  {
     "email" : "tazulislam5020@gmail.com",
     "active" : "27-Jan-2026",
     "expire" : "27-July-2026"
@@ -77,12 +82,7 @@
   {
     "email" : "didarulislam634@gmail.com",
     "active" : "17-May-2026",
-    "expire" : "17-November-2026"
-  },
-  {
-    "email" : "boimelanurnagar2005@gmail.com",
-    "active" : "18-May-2026",
-    "expire" : "18-May-2027"
+    "expire" : "17-Nov-2026"
   },
     {
     "email" : "bp419214@gmail.com",
