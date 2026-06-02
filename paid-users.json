@@ -19,7 +19,12 @@
     "active" : "13-April-2026",
     "expire" : "Lifetime"
   },
-    {
+   {
+    "email" : "shahinbd2260@gmail.com",
+    "active" : "02-June-2026",
+    "expire" : "02-June-2027"
+  },
+  {
     "email" : "muhiuddin0612@gmail.com",
     "active" : "02-Feb-2026",
     "expire" : "02-Feb-2027"
@@ -90,9 +95,9 @@
     "expire" : "15-June-2026"
   },
   {
-    "email" : "@gmail.com",
-    "active" : "17-April-2026",
-    "expire" : "17-May-2026"
+    "email" : "Nurislam.Palash2014@gmail.com",
+    "active" : "02-June-2026",
+    "expire" : "02-July-2026"
   },
   {
     "email" : "islamicmind413@gmail.com",
