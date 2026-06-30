@@ -1,7 +1,7 @@
 {
-  "latest_version": "47",
-  "latest_version_size": "7 MB",
-  "latest_version_info": "MyHisab অ্যাপে এই আপডেটগুলো করা হয়েছে:\n✓ Loan সেকশন এডভ্যান্স করা হয়েছে।\n✓ এখন লোন পেলাম এবং লোন দিলাম এর হিসাব রাখা আরও সহজ হয়ে যাবে।\n✓ MB না থাকলেও, শুধু ডাটা/WiFi অন থাকলেই হিসাব রাখা যাবে।",
+  "latest_version": "48",
+  "latest_version_size": "6 MB",
+  "latest_version_info": "MyHisab অ্যাপে এই আপডেটগুলো করা হয়েছে:\n✓ এখন থেকে কাস্টম পেমেন্টের ধরন যুক্ত করা যাবে।\n✓ এখন থেকে কাস্টম ওয়ালেট যুক্ত করা যাবে।\n✓ Minor BugFix করা হয়েছে।",
   "scrolling_notice": "~ ব্যক্তিগত কিংবা ব্যবসার সকল হিসাব রাখুন সহজে ~ MyHisab অ্যাপে হিসাব হবে ডিজিটাল",
   "scrolling_notice_click_link": "https://play.google.com/store/apps/details?id=com.dssoftwarehero.myhisab_expensemanager",
   "notice": "false",
