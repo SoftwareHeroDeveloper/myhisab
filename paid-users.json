@@ -103,5 +103,10 @@
     "email" : "jstumi1920@gmail.com",
     "active" : "08-June-2026",
     "expire" : "08-July-2026"
+  },
+  {
+    "email" : "aidoc2027@gmail.com",
+    "active" : "07-July-2026",
+    "expire" : "07-August-2026"
   }
 ]
